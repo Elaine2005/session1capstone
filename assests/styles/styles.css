@@ -23,10 +23,13 @@
 }
 #rome
 { 
-    padding-bottom: 25px;
+    padding-bottom: 15px;
 }
-#athens
-{
-    padding-bottom: 20px;
+#paris {
+    padding-bottom: 40px;
 }
+.card-img-top {
+    height: 15vw
+}
+
 
